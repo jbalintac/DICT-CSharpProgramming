@@ -1,0 +1,9 @@
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\bin\Debug\DICT.CSharp.LessonOne.exe.config
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\bin\Debug\DICT.CSharp.LessonOne.exe
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\bin\Debug\DICT.CSharp.LessonOne.pdb
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\obj\Debug\DICT.CSharp.LessonOne.csprojResolveAssemblyReference.cache
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\obj\Debug\DICT.CSharp.LessonOne.Form1.resources
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\obj\Debug\DICT.CSharp.LessonOne.Properties.Resources.resources
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\obj\Debug\DICT.CSharp.LessonOne.csproj.GenerateResource.Cache
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\obj\Debug\DICT.CSharp.LessonOne.exe
+C:\Users\lsr\Documents\Jordan\Doc\Work\DICT\Demo\DICT.CSharp.LessonOne\DICT.CSharp.LessonOne\obj\Debug\DICT.CSharp.LessonOne.pdb

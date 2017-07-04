@@ -4,3 +4,6 @@ c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDem
 c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
 c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.exe
 c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.pdb
+C:\Users\C#SUC-2017\Documents\newnew\DICT-CSharpProgramming\Lesson\DICT.CSharp.LessonFour\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\Users\C#SUC-2017\Documents\newnew\DICT-CSharpProgramming\Lesson\DICT.CSharp.LessonFour\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\Users\C#SUC-2017\Documents\newnew\DICT-CSharpProgramming\Lesson\DICT.CSharp.LessonFour\ConsoleDemo\obj\Debug\ConsoleDemo.pdb

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleDemo.Exercise2.AUV" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercise2\AUV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Animal">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Dog">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Wolf">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Cat">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Bat" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Car">
+    <Position X="7.75" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Model\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Coupe" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Coupe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Backhoe" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Backhoe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.Helper">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.BaseParser">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.CsvParser">
+    <Position X="13.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleDemo.Model.PipeParser">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Model\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

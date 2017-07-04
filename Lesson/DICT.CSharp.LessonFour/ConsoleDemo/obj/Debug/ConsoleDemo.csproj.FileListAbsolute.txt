@@ -1,0 +1,6 @@
+c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+c:\users\c#suc-2017\documents\visual studio 2015\Projects\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.pdb

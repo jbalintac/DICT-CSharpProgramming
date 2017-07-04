@@ -12,7 +12,39 @@ namespace ConsoleDemo
     {
         static void Main(string[] args)
         {
-            var cars = new List<Car>
+           var arrays = new int[] { 1,2 };
+
+            try
+            {
+                arrays[1] = arrays[7] + 1;
+            }
+            catch (AggregateException ex)
+            {
+                Console.WriteLine("Doing something");
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine("Doing something");
+            }
+            catch
+            {
+                Console.WriteLine("Doing something");
+            }
+            finally
+            {
+
+                Console.WriteLine("Doing something");
+            }
+
+
+            Console.WriteLine("Doing something");
+
+        }
+    }
+
+
+    /*
+ var cars = new List<Car>
             {
                 new Car { Make = "Base Car", Year = 2015},
                 new SUV { Year = 2017},
@@ -44,6 +76,5 @@ namespace ConsoleDemo
                 Console.WriteLine(item.Make + " " + item.RemainingYears);
             }
             
-        }
-    }   
+     */
 }

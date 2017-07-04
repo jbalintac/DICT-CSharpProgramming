@@ -18,5 +18,10 @@ namespace ConsoleDemo.Model
         //    Console.WriteLine("Repairing: " + car.Make);
         //}
 
+        public void TestBeep(Car car)
+        {
+
+        }
+
     }
 }

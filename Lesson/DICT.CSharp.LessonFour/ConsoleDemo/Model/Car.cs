@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleDemo.Model
 {
+
+
     public class Car
     {
         public int Year { get; set; }
